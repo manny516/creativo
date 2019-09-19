@@ -1,0 +1,2283 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Creatividad\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-18 04:12-0400\n"
+"POT-Revision-Date: Mon Jul 18 2016 19:24:27 GMT-0400 (EDT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Manny <mwalthrust@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Loco-Target-Locale: es_ES"
+
+#: comments.php:76 woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: functions.php:264
+msgid "HTML Email Widget "
+msgstr ""
+
+#: functions.php:274
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: lib/customize/customize.php:67
+msgid "9px"
+msgstr ""
+
+#: lib/customize/customize.php:68
+msgid "10px"
+msgstr ""
+
+#: lib/customize/customize.php:69
+msgid "11px"
+msgstr ""
+
+#: lib/customize/customize.php:70
+msgid "12px"
+msgstr ""
+
+#: lib/customize/customize.php:71
+msgid "13px"
+msgstr ""
+
+#: lib/customize/customize.php:72
+msgid "14px"
+msgstr ""
+
+#: lib/customize/customize.php:73
+msgid "15px"
+msgstr ""
+
+#: lib/customize/customize.php:74
+msgid "16px"
+msgstr ""
+
+#: lib/customize/customize.php:75
+msgid "17px"
+msgstr ""
+
+#: lib/customize/customize.php:76
+msgid "18px"
+msgstr ""
+
+#: lib/customize/customize.php:77
+msgid "19px"
+msgstr ""
+
+#: lib/customize/customize.php:78
+msgid "20px"
+msgstr ""
+
+#: lib/customize/customize.php:79
+msgid "21px"
+msgstr ""
+
+#: lib/customize/customize.php:80
+msgid "22px"
+msgstr ""
+
+#: lib/customize/customize.php:81
+msgid "23px"
+msgstr ""
+
+#: lib/customize/customize.php:82
+msgid "24px"
+msgstr ""
+
+#: lib/customize/customize.php:83
+msgid "25px"
+msgstr ""
+
+#: lib/customize/customize.php:84
+msgid "26px"
+msgstr ""
+
+#: lib/customize/customize.php:85
+msgid "27px"
+msgstr ""
+
+#: lib/customize/customize.php:86
+msgid "28px"
+msgstr ""
+
+#: lib/customize/customize.php:87
+msgid "29px"
+msgstr ""
+
+#: lib/customize/customize.php:88
+msgid "30px"
+msgstr ""
+
+#: lib/customize/customize.php:89
+msgid "31px"
+msgstr ""
+
+#: lib/customize/customize.php:90
+msgid "32px"
+msgstr ""
+
+#: lib/customize/customize.php:91
+msgid "33px"
+msgstr ""
+
+#: lib/customize/customize.php:92
+msgid "34px"
+msgstr ""
+
+#: lib/customize/customize.php:93
+msgid "35px"
+msgstr ""
+
+#: lib/customize/customize.php:94
+msgid "36px"
+msgstr ""
+
+#: lib/customize/customize.php:95
+msgid "37px"
+msgstr ""
+
+#: lib/customize/customize.php:96
+msgid "38px"
+msgstr ""
+
+#: lib/customize/customize.php:97
+msgid "39px"
+msgstr ""
+
+#: lib/customize/customize.php:98
+msgid "40px"
+msgstr ""
+
+#: lib/customize/customize.php:99
+msgid "41px"
+msgstr ""
+
+#: lib/customize/customize.php:100
+msgid "42px"
+msgstr ""
+
+#: lib/customize/customize.php:101
+msgid "43px"
+msgstr ""
+
+#: lib/customize/customize.php:102
+msgid "44px"
+msgstr ""
+
+#: lib/customize/customize.php:103
+msgid "45px"
+msgstr ""
+
+#: lib/customize/customize.php:104
+msgid "46px"
+msgstr ""
+
+#: lib/customize/customize.php:105
+msgid "47px"
+msgstr ""
+
+#: lib/customize/customize.php:106
+msgid "48px"
+msgstr ""
+
+#: lib/customize/customize.php:107
+msgid "49px"
+msgstr ""
+
+#: lib/customize/customize.php:108
+msgid "50px"
+msgstr ""
+
+#: lib/customize/customize.php:109
+msgid "51px"
+msgstr ""
+
+#: lib/customize/customize.php:110
+msgid "52px"
+msgstr ""
+
+#: lib/customize/customize.php:111
+msgid "53px"
+msgstr ""
+
+#: lib/customize/customize.php:112
+msgid "54px"
+msgstr ""
+
+#: lib/customize/customize.php:113
+msgid "55px"
+msgstr ""
+
+#: lib/customize/customize.php:114
+msgid "56px"
+msgstr ""
+
+#: lib/customize/customize.php:115
+msgid "57px"
+msgstr ""
+
+#: lib/customize/customize.php:116
+msgid "58px"
+msgstr ""
+
+#: lib/customize/customize.php:117
+msgid "59px"
+msgstr ""
+
+#: lib/customize/customize.php:118
+msgid "60px"
+msgstr ""
+
+#: lib/customize/customize.php:119
+msgid "61px"
+msgstr ""
+
+#: lib/customize/customize.php:120
+msgid "62px"
+msgstr ""
+
+#: lib/customize/customize.php:121
+msgid "63px"
+msgstr ""
+
+#: lib/customize/customize.php:122
+msgid "64px"
+msgstr ""
+
+#: lib/customize/customize.php:123
+msgid "65px"
+msgstr ""
+
+#: lib/customize/customize.php:124
+msgid "66px"
+msgstr ""
+
+#: lib/customize/customize.php:125
+msgid "67px"
+msgstr ""
+
+#: lib/customize/customize.php:126
+msgid "68px"
+msgstr ""
+
+#: lib/customize/customize.php:127
+msgid "69px"
+msgstr ""
+
+#: lib/customize/customize.php:128
+msgid "70px"
+msgstr ""
+
+#: lib/customize/customize.php:129
+msgid "71px"
+msgstr ""
+
+#: lib/customize/customize.php:155
+msgid "ABeeZee"
+msgstr ""
+
+#: lib/customize/customize.php:156
+msgid "Abel"
+msgstr ""
+
+#: lib/customize/customize.php:157
+msgid "Aclonica"
+msgstr ""
+
+#: lib/customize/customize.php:158
+msgid "Acme"
+msgstr ""
+
+#: lib/customize/customize.php:159
+msgid "Actor"
+msgstr ""
+
+#: lib/customize/customize.php:160
+msgid "Adamina"
+msgstr ""
+
+#: lib/customize/customize.php:161
+msgid "Advent Pro"
+msgstr ""
+
+#: lib/customize/customize.php:162
+msgid "Aguafina Script"
+msgstr ""
+
+#: lib/customize/customize.php:163
+msgid "Akronim"
+msgstr ""
+
+#: lib/customize/customize.php:164
+msgid "Aladin"
+msgstr ""
+
+#: lib/customize/customize.php:165
+msgid "Aldrich"
+msgstr ""
+
+#: lib/customize/customize.php:166
+msgid "Alef"
+msgstr ""
+
+#: lib/customize/customize.php:167
+msgid "Alegreya"
+msgstr ""
+
+#: lib/customize/customize.php:168
+msgid "Arbutus"
+msgstr ""
+
+#: lib/customize/customize.php:169
+msgid "Arbutus Slab"
+msgstr ""
+
+#: lib/customize/customize.php:170
+msgid "Architects Daughter"
+msgstr ""
+
+#: lib/customize/customize.php:171
+msgid "Archivo Black"
+msgstr ""
+
+#: lib/customize/customize.php:172
+msgid "Archivo Narrow"
+msgstr ""
+
+#: lib/customize/customize.php:173
+msgid "Arial"
+msgstr ""
+
+#: lib/customize/customize.php:174
+msgid "Arimo"
+msgstr ""
+
+#: lib/customize/customize.php:175
+msgid "Arizonia"
+msgstr ""
+
+#: lib/customize/customize.php:176
+msgid "Armata"
+msgstr ""
+
+#: lib/customize/customize.php:177
+msgid "Artifika"
+msgstr ""
+
+#: lib/customize/customize.php:178
+msgid "Arvo"
+msgstr ""
+
+#: lib/customize/customize.php:179
+msgid "Balthazar"
+msgstr ""
+
+#: lib/customize/customize.php:180
+msgid "Bangers"
+msgstr ""
+
+#: lib/customize/customize.php:181
+msgid "Basic"
+msgstr ""
+
+#: lib/customize/customize.php:182
+msgid "Baumans"
+msgstr ""
+
+#: lib/customize/customize.php:183
+msgid "Belgrano"
+msgstr ""
+
+#: lib/customize/customize.php:184
+msgid "Belleza"
+msgstr ""
+
+#: lib/customize/customize.php:185
+msgid "BenchNine"
+msgstr ""
+
+#: lib/customize/customize.php:186
+msgid "Bentham"
+msgstr ""
+
+#: lib/customize/customize.php:187
+msgid "Berkshire Swash"
+msgstr ""
+
+#: lib/customize/customize.php:188
+msgid "Bevan"
+msgstr ""
+
+#: lib/customize/customize.php:189
+msgid "Candal"
+msgstr ""
+
+#: lib/customize/customize.php:190
+msgid "Cantarell"
+msgstr ""
+
+#: lib/customize/customize.php:191
+msgid "Cantata One"
+msgstr ""
+
+#: lib/customize/customize.php:192
+msgid "Capriola"
+msgstr ""
+
+#: lib/customize/customize.php:193
+msgid "Carrois Gothic SC"
+msgstr ""
+
+#: lib/customize/customize.php:194
+msgid "Caveat"
+msgstr ""
+
+#: lib/customize/customize.php:195
+msgid "Caveat Brush"
+msgstr ""
+
+#: lib/customize/customize.php:196
+msgid "Cedarville Cursive"
+msgstr ""
+
+#: lib/customize/customize.php:197
+msgid "Ceviche One"
+msgstr ""
+
+#: lib/customize/customize.php:198
+msgid "Chango"
+msgstr ""
+
+#: lib/customize/customize.php:199
+msgid "Copse"
+msgstr ""
+
+#: lib/customize/customize.php:200
+msgid "Droid Sans"
+msgstr ""
+
+#: lib/customize/customize.php:201
+msgid "Droid font"
+msgstr ""
+
+#: lib/customize/customize.php:202
+msgid "Lobster"
+msgstr ""
+
+#: lib/customize/customize.php:203
+msgid "Nobile"
+msgstr ""
+
+#: lib/customize/customize.php:204
+msgid "Montserrat"
+msgstr ""
+
+#: lib/customize/customize.php:205
+msgid "Open Sans"
+msgstr ""
+
+#: lib/customize/customize.php:206
+msgid "Oswald"
+msgstr ""
+
+#: lib/customize/customize.php:207
+msgid "Pacifico"
+msgstr ""
+
+#: lib/customize/customize.php:208
+msgid "PT Sans"
+msgstr ""
+
+#: lib/customize/customize.php:209
+msgid "PT Sans Caption"
+msgstr ""
+
+#: lib/customize/customize.php:210
+msgid "Quattrocento"
+msgstr ""
+
+#: lib/customize/customize.php:211
+msgid "Rokkit"
+msgstr ""
+
+#: lib/customize/customize.php:212
+msgid "Raleway"
+msgstr ""
+
+#: lib/customize/customize.php:213
+msgid "Roboto"
+msgstr ""
+
+#: lib/customize/customize.php:214
+msgid "Ubuntu"
+msgstr ""
+
+#: lib/customize/customize.php:215
+msgid "Yanone Kaffeesatz"
+msgstr ""
+
+#: lib/customize/customize.php:243
+msgid "normal"
+msgstr ""
+
+#: lib/customize/customize.php:244
+msgid "bold"
+msgstr ""
+
+#: lib/customize/customize.php:245
+msgid "bolder"
+msgstr ""
+
+#: lib/customize/customize.php:246
+msgid "lighter"
+msgstr ""
+
+#: lib/customize/customize.php:247
+msgid "100"
+msgstr ""
+
+#: lib/customize/customize.php:248
+msgid "200"
+msgstr ""
+
+#: lib/customize/customize.php:249
+msgid "300"
+msgstr ""
+
+#: lib/customize/customize.php:250
+msgid "400"
+msgstr ""
+
+#: lib/customize/customize.php:251
+msgid "500"
+msgstr ""
+
+#: lib/customize/customize.php:252
+msgid "600"
+msgstr ""
+
+#: lib/customize/customize.php:253
+msgid "700"
+msgstr ""
+
+#: lib/customize/customize.php:254
+msgid "800"
+msgstr ""
+
+#: lib/customize/customize.php:255
+msgid "900"
+msgstr ""
+
+#: lib/customize/customize.php:307
+msgid "Preloder"
+msgstr ""
+
+#: lib/customize/customize.php:307 lib/customize/customize.php:314
+msgid "Select Options Below"
+msgstr ""
+
+#: lib/customize/customize.php:308
+msgid "Select First Color "
+msgstr ""
+
+#: lib/customize/customize.php:309
+msgid "Select Second Color "
+msgstr ""
+
+#: lib/customize/customize.php:310
+msgid "Select Third Color "
+msgstr ""
+
+#: lib/customize/customize.php:314
+msgid "General"
+msgstr ""
+
+#: lib/customize/customize.php:318
+msgid "Upload Logo"
+msgstr ""
+
+#: lib/customize/customize.php:322
+msgid "Select Site Background Color"
+msgstr ""
+
+#: lib/customize/customize.php:325
+msgid "Select Main Font"
+msgstr ""
+
+#: lib/customize/customize.php:326
+msgid "Select Main Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:327
+msgid "Select Main Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:328
+msgid "Select Main Color"
+msgstr ""
+
+#: lib/customize/customize.php:331
+msgid "Select Link Font"
+msgstr ""
+
+#: lib/customize/customize.php:332
+msgid "Select Link Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:333
+msgid "Select Link Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:334
+msgid "Select Link Color"
+msgstr ""
+
+#: lib/customize/customize.php:338
+msgid "Select Nav Font"
+msgstr ""
+
+#: lib/customize/customize.php:339
+msgid "Select Nav Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:340
+msgid "Select Nav Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:341
+msgid "Select Nav Color"
+msgstr ""
+
+#: lib/customize/customize.php:345
+msgid "Header Typography"
+msgstr ""
+
+#: lib/customize/customize.php:345
+msgid "Choose header Font Style"
+msgstr ""
+
+#: lib/customize/customize.php:347
+msgid "Select Mega Footer Font"
+msgstr ""
+
+#: lib/customize/customize.php:348
+msgid "Select Mega Footer Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:349
+msgid "Select Mega Footer Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:350 lib/customize/customize.php:407
+msgid "Select Mega Footer Color"
+msgstr ""
+
+#: lib/customize/customize.php:353
+msgid "Select Mega Footer Header Font"
+msgstr ""
+
+#: lib/customize/customize.php:354
+msgid "Select Mega Footer Header Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:355
+msgid "Select Mega Footer Header Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:356
+msgid "Select Mega Footer Header Color"
+msgstr ""
+
+#: lib/customize/customize.php:358
+msgid "Select Footer Font"
+msgstr ""
+
+#: lib/customize/customize.php:359
+msgid "Select Footer Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:360
+msgid "Select Footer Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:361 lib/customize/customize.php:408
+msgid "Select Footer Color"
+msgstr ""
+
+#: lib/customize/customize.php:364
+msgid "Select H1 Font"
+msgstr ""
+
+#: lib/customize/customize.php:365
+msgid "Select H1 Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:366
+msgid "Select H1 Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:367
+msgid "Select H1 Color"
+msgstr ""
+
+#: lib/customize/customize.php:370
+msgid "Select H2 Font"
+msgstr ""
+
+#: lib/customize/customize.php:371
+msgid "Select H2 Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:372
+msgid "Select H2 Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:373
+msgid "Select H2 Color"
+msgstr ""
+
+#: lib/customize/customize.php:375
+msgid "Select H3 Font"
+msgstr ""
+
+#: lib/customize/customize.php:376
+msgid "Select H3 Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:377
+msgid "Select H3 Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:378
+msgid "Select H3 Color"
+msgstr ""
+
+#: lib/customize/customize.php:381
+msgid "Select H4 Font"
+msgstr ""
+
+#: lib/customize/customize.php:382
+msgid "Select H4 Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:383
+msgid "Select H4 Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:384
+msgid "Select H4 Color"
+msgstr ""
+
+#: lib/customize/customize.php:387
+msgid "Select H5 Font"
+msgstr ""
+
+#: lib/customize/customize.php:388
+msgid "Select H5 Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:389
+msgid "Select H5 Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:390
+msgid "Select H5 Color"
+msgstr ""
+
+#: lib/customize/customize.php:393
+msgid "Select H6 Font"
+msgstr ""
+
+#: lib/customize/customize.php:394
+msgid "Select H6 Font Size"
+msgstr ""
+
+#: lib/customize/customize.php:395
+msgid "Select H6 Font weight"
+msgstr ""
+
+#: lib/customize/customize.php:396
+msgid "Select H6 Color"
+msgstr ""
+
+#: lib/customize/customize.php:401
+msgid "Color Scheme"
+msgstr ""
+
+#: lib/customize/customize.php:401
+msgid "Select Theme Color Scheme"
+msgstr ""
+
+#: lib/customize/customize.php:403
+msgid "Select Primary Color"
+msgstr ""
+
+#: lib/customize/customize.php:404
+msgid "Select Secondary Color"
+msgstr ""
+
+#: lib/customize/customize.php:405
+msgid "Select Tertiary Color"
+msgstr ""
+
+#: lib/customize/customize.php:406
+msgid "Upload Mega Footer BackgroundImage"
+msgstr ""
+
+#: lib/customize/customize.php:746
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: lib/metaboxes/footer-check-meta.php:3
+msgid "Select Footer Style Option"
+msgstr ""
+
+#: lib/metaboxes/footer-check-meta.php:7
+msgid "Default"
+msgstr ""
+
+#: lib/metaboxes/footer-check-meta.php:8
+msgid "Hide Mega Footer"
+msgstr ""
+
+#: lib/metaboxes/footer-check-meta.php:9
+msgid "Hide Footer"
+msgstr ""
+
+#: lib/metaboxes/footer-check-meta.php:10
+msgid "Hide Mega Footer & Footer"
+msgstr ""
+
+#: lib/metaboxes/header-check-meta.php:3
+msgid "Custom Header Banner Setting"
+msgstr ""
+
+#: lib/metaboxes/header-check-meta.php:5
+msgid "Set Feature image as Header Banner"
+msgstr ""
+
+#: lib/metaboxes/layerslider_meta.php:1
+msgid "Add a slider Shortcode to add a full width slider banner"
+msgstr ""
+
+#: lib/metaboxes/nav-check-meta.php:3
+msgid "Navigation header option"
+msgstr ""
+
+#: lib/metaboxes/nav-check-meta.php:5
+msgid "Remove navigation header from this page ?"
+msgstr ""
+
+#: lib/metaboxes/sidebar-check-meta.php:3
+msgid "Post page setting"
+msgstr ""
+
+#: lib/metaboxes/sidebar-check-meta.php:5
+msgid "Set Full Width Post / with Slide out Sidebar ?"
+msgstr ""
+
+#: lib/metaboxes/simple-spec.php:14
+msgid "Navgation Option"
+msgstr ""
+
+#: lib/metaboxes/simple-spec.php:23
+msgid "Slider"
+msgstr ""
+
+#: lib/metaboxes/simple-spec.php:34
+msgid "Footer Option"
+msgstr ""
+
+#: lib/metaboxes/simple-spec.php:45
+msgid "Custom Header Banner"
+msgstr ""
+
+#: lib/metaboxes/simple-spec.php:56
+msgid "Custom Slide Out Siderbar"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:331
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:332
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:333
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:362
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:367
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:372
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:377
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:381
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:382
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:383
+#: lib/plugininstall/class-tgm-plugin-activation.php:3200
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:384
+#: lib/plugininstall/class-tgm-plugin-activation.php:3003
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:385
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:386
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:387
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:388
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:389
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:390
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:711
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:906
+#: lib/plugininstall/class-tgm-plugin-activation.php:3614
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:1013
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:1013
+#: lib/plugininstall/class-tgm-plugin-activation.php:1016
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:1016
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:1200
+#: lib/plugininstall/class-tgm-plugin-activation.php:2999
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2046
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2332
+msgid "Required"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2335
+msgid "Recommended"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2351
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2354
+msgid "External Source"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2357
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2374
+msgid "Not Installed"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2378
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2380
+msgid "Active"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2386
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2389
+msgid "Requires Update"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2392
+msgid "Update recommended"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2400
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2445
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2448
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2451
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2454
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2536
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2544
+msgid "Installed version:"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2552
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2564
+msgid "Available version:"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2587
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2601
+msgid "Plugin"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2602
+msgid "Source"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2603
+msgid "Type"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2607
+msgid "Version"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2608
+msgid "Status"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2656
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2660
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2665
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2735
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2768
+msgid "Install"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2774
+msgid "Update"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2777
+msgid "Activate"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2808
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2810
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2851
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2853
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:2985
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3199
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3538
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3540
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3541
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3545
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3546
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3546
+#: lib/plugininstall/class-tgm-plugin-activation.php:3552
+msgid "Show Details"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3546
+#: lib/plugininstall/class-tgm-plugin-activation.php:3552
+msgid "Hide Details"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3547
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3548
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3551
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3552
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3553
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/plugininstall/class-tgm-plugin-activation.php:3554
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/vc/vc.php:36
+msgid "Blog Post"
+msgstr ""
+
+#: lib/vc/vc.php:39
+msgid "Add most recent blog post"
+msgstr ""
+
+#: lib/vc/vc.php:41 lib/vc/vc.php:86 lib/vc/vc.php:125
+msgid "Creatividad Addons"
+msgstr ""
+
+#: lib/vc/vc.php:47
+msgid "Select Post per column"
+msgstr ""
+
+#: lib/vc/vc.php:50
+msgid "Select Number of Grids."
+msgstr ""
+
+#: lib/vc/vc.php:56
+msgid "Enter Category Name"
+msgstr ""
+
+#: lib/vc/vc.php:59
+msgid "type category Name"
+msgstr ""
+
+#: lib/vc/vc.php:65
+msgid "Enter Number of Post Perpage (optional)"
+msgstr ""
+
+#: lib/vc/vc.php:68
+msgid "post perpage"
+msgstr ""
+
+#: lib/vc/vc.php:81
+msgid "Blog Archives"
+msgstr ""
+
+#: lib/vc/vc.php:84
+msgid "create a custom Blog Archive page with this simple addon"
+msgstr ""
+
+#: lib/vc/vc.php:92
+msgid "Select Blog Archive Style"
+msgstr ""
+
+#: lib/vc/vc.php:95
+msgid "Select Blog Archive Style."
+msgstr ""
+
+#: lib/vc/vc.php:101
+msgid "Enter Category Name (optional)"
+msgstr ""
+
+#: lib/vc/vc.php:104
+msgid "Enter Category Name. Will get all Categories if field is blank"
+msgstr ""
+
+#: lib/vc/vc.php:120
+msgid "Portfolio Archives"
+msgstr ""
+
+#: lib/vc/vc.php:123
+msgid "Create a portfolio page with this simple addon"
+msgstr ""
+
+#: lib/vc/vc.php:131 lib/vc/vc.php:134
+msgid "Select Portfolio  Hover Style"
+msgstr ""
+
+#: lib/vc/vc.php:140 lib/vc/vc.php:143
+msgid "Select Portfolio Filter Transition"
+msgstr ""
+
+#: lib/vc/vc.php:149 lib/vc/vc.php:152
+msgid "Select Sort Order Menu Postion"
+msgstr ""
+
+#: lib/vc/vc.php:158 lib/vc/vc.php:161
+msgid "Select Filter Text Color"
+msgstr ""
+
+#: lib/vc/vc.php:167 lib/vc/vc.php:170
+msgid "Select Filter Background color"
+msgstr ""
+
+#: lib/widgets/widget.class.php:15
+msgid "Contact Widget"
+msgstr ""
+
+#: lib/widgets/widget.class.php:58 lib/widgets/widget.class.php:219
+msgid "Title"
+msgstr ""
+
+#: lib/widgets/widget.class.php:60
+msgid "Enter Widget title"
+msgstr ""
+
+#: lib/widgets/widget.class.php:66 lib/widgets/widget.class.php:68
+msgid "Enter Street Address"
+msgstr ""
+
+#: lib/widgets/widget.class.php:74 lib/widgets/widget.class.php:75
+msgid "Enter Email Address"
+msgstr ""
+
+#: lib/widgets/widget.class.php:81
+msgid "Enter Contact Number"
+msgstr ""
+
+#: lib/widgets/widget.class.php:82
+msgid "Phone Number"
+msgstr ""
+
+#: lib/widgets/widget.class.php:186
+msgid "Twitter Widget"
+msgstr ""
+
+#: lib/widgets/widget.class.php:221
+msgid "Enter Widget Title"
+msgstr ""
+
+#: lib/widgets/widget.class.php:226
+msgid "Enter Your Twitter URL "
+msgstr ""
+
+#: lib/widgets/widget.class.php:227
+msgid "Enter Your Twitter URL"
+msgstr ""
+
+#: lib/widgets/widget.class.php:233
+msgid "Enter Your ID Title"
+msgstr ""
+
+#: lib/widgets/widget.class.php:234
+msgid "Enter Twitter ID"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results"
+msgstr ""
+
+#: search.php:32
+msgid "View Post"
+msgstr ""
+
+#: search.php:44
+msgid "Sorry Try Again !"
+msgstr ""
+
+#: search.php:53
+msgid "Sorry No Posts"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:34
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:38
+msgid "WordPress"
+msgstr ""
+
+#: sidebar.php:45
+msgid "Subscribe"
+msgstr ""
+
+#: sidebar.php:47
+msgid "Entries"
+msgstr ""
+
+#: sidebar.php:48
+msgid "Comments"
+msgstr ""
+
+#: single-portfolio.php:96 single.php:200
+msgid "Show Comments"
+msgstr ""
+
+#: single-portfolio.php:96 single.php:200
+msgid "Hide Comments"
+msgstr ""
+
+#: single.php:39 single.php:78
+msgid "Leave a Comment"
+msgstr ""
+
+#: single.php:176
+msgid "About the Author"
+msgstr ""
+
+#: single.php:251
+msgid "Prev"
+msgstr ""
+
+#: single.php:348
+msgid "Next"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:26
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:30
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:58
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/checkout/review-order.php:97
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:18
+#: woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid "Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:22
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:26
+#: woocommerce/emails/plain/customer-new-account.php:21
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:18
+#: woocommerce/emails/plain/customer-reset-password.php:16
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:19
+#: woocommerce/emails/plain/customer-reset-password.php:18
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:20
+#: woocommerce/emails/plain/customer-reset-password.php:19
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:21
+#: woocommerce/emails/plain/customer-reset-password.php:20
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:24
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-new-account.php:19
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/plain/email-addresses.php:18
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:38
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:49
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:51
+msgid "Download"
+msgstr ""
+
+#: woocommerce/global/form-login.php:26
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:30 woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:89
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39 woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:47
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:42 woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:46 woocommerce/myaccount/form-login.php:53
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+#: woocommerce/single-product/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:103
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:82
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:96
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-"
+"date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:24 woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:30 woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:22
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:27
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:34
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:41
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:57
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:60
+#: woocommerce/order/order-details-customer.php:71
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:68
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:33
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Creatividad"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://mannyidea.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is a Multipurpose Wordpress Theme Created by Mannyidea"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Immanuel Walthrust"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "Author URI: http://mannyidea.com/about"
+msgstr ""
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:18
+msgid "One Response"
+msgstr ""
+
+#: comments.php:18
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:52
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:52 woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:59
+msgid "You must be"
+msgstr ""
+
+#: comments.php:59
+msgid "logged in"
+msgstr ""
+
+#: comments.php:59
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:71 woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: comments.php:82
+msgid "Website"
+msgstr ""
+
+#: content-audio.php:29 content-gallery.php:56 content.php:45
+#: lib/archive/archive-style2.php:115 lib/archive/archive-style3.php:97
+#: lib/archive/archive-stylefull.php:113 lib/archive/archive-stylefull2.php:94
+msgid "Sticky Post"
+msgstr ""
+
+#: content-audio.php:30 content-gallery.php:57 content-video.php:31
+#: content.php:46 lib/archive/archive-style.php:113
+#: lib/archive/archive-style2.php:116
+msgid "Be the first to comment"
+msgstr ""
+
+#: content-audio.php:30 content-gallery.php:57 content-video.php:31
+#: content.php:46 inc/meta.php:4 lib/archive/archive-style.php:113
+#: lib/archive/archive-style2.php:116 lib/archive/archive-stylefull.php:114
+#: single.php:39 single.php:78
+msgid "1 Comment"
+msgstr ""
+
+#: content-audio.php:30 content-gallery.php:57 content-video.php:31
+#: content.php:46 lib/archive/archive-style.php:113
+#: lib/archive/archive-style2.php:116 lib/archive/archive-stylefull.php:114
+#: single.php:39 single.php:78
+#, c-format
+msgid "% Comments"
+msgstr ""
+
+#: content-audio.php:39 content-gallery.php:66 content-video.php:40
+#: content.php:57 lib/archive/archive-style.php:122
+#: lib/archive/archive-style2.php:126 lib/archive/archive-style3.php:129
+#: lib/archive/archive-stylefull.php:126 lib/archive/archive-stylefull2.php:126
+msgid "Read More"
+msgstr ""
+
+#: content.php:53
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: functions.php:233
+msgid "Please drag and drop a widget you would like to use."
+msgstr ""
+
+#: functions.php:244
+msgid "Subpage Sidebar"
+msgstr ""
+
+#: functions.php:247
+msgid "Footer Column One Widgets"
+msgstr ""
+
+#: functions.php:250
+msgid "Footer Column Two Widgets"
+msgstr ""
+
+#: functions.php:253
+msgid "Footer Column Three Widgets"
+msgstr ""
+
+#: functions.php:256
+msgid "Footer Column Four Widgets"
+msgstr ""
+
+#: functions.php:259
+msgid "Blog Page Sidebar"
+msgstr ""
+
+#: functions.php:438
+msgid "gallery image"
+msgstr ""
+
+#: functions.php:483
+msgid "Home"
+msgstr ""
+
+#: functions.php:606 index.php:42
+msgid "Page"
+msgstr ""
+
+#: inc/meta.php:4
+msgid "No Comments"
+msgstr ""
+
+#: inc/meta.php:4
+msgid "comments-link"
+msgstr ""
+
+#: inc/nav.php:3
+msgid "Older Entries"
+msgstr ""
+
+#: inc/nav.php:4
+msgid "Newer Entry"
+msgstr ""
+
+#: index.php:12
+msgid "Category"
+msgstr ""
+
+#: index.php:16
+msgid "Posts Tagged"
+msgstr ""
+
+#: index.php:19
+msgid "Archives By Day"
+msgstr ""
+
+#: index.php:22
+msgid "Archives By Month"
+msgstr ""
+
+#: index.php:25
+msgid "Archive By Year"
+msgstr ""
+
+#: index.php:28
+msgid "Author Archive"
+msgstr ""
+
+#: index.php:40
+msgid "Previous page"
+msgstr ""
+
+#: index.php:41
+msgid "Next page"
+msgstr ""
+
+#: index.php:57
+msgid "Nothing found"
+msgstr ""
+
+#: lib/archive/archive-stylefull.php:114
+msgid "Leave a comment"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""

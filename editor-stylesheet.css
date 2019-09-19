@@ -1,0 +1,71 @@
+/******* Add Your Custom Editor styles here ********/
+
+
+	p{ 
+		font-size: 14px;
+		line-height : 1.6;
+		font-family: arial;
+	}
+
+	a{ 
+    	font-size: 14px !important;
+    	color: #49c6ed; 
+    	font-family: ;
+    	font-weight: normal;
+    }
+
+ 	h1{
+	  font-size: 50px !important;
+	  color: #606060 !important; 
+	  font-family: PT Sans Caption !important;
+	  font-weight: normal !important;  
+	  letter-spacing: 2px;
+	}
+
+	h2{
+	  font-size: 40px !important;
+	  color: #606060 !important; 
+	  font-family: PT Sans Caption !important;
+	  font-weight: normal !important;  
+	  letter-spacing: -0.5px;
+	}
+
+	 h2 a{
+	  font-size: 40px !important;
+	  font-family: PT Sans Caption !important;
+	  font-weight: normal !important;  
+	  letter-spacing: -0.5px;
+	 } 
+
+	h3{
+	  font-size: 36px;
+	  color: #606060; 
+	  font-family: PT Sans Caption; 
+	  font-weight: normal; 
+	  letter-spacing: -0.5px;
+	}
+
+
+	h4{
+	  font-size: 20px;
+	  color: #606060; 
+	  font-family: PT Sans Caption; 
+	  font-weight: normal; 
+	  letter-spacing: -0.5px;
+	}
+
+	h5{
+	  font-size: 18px;
+	  color: #606060; 
+	  font-family: PT Sans Caption;
+	  font-weight: normal; 
+	  letter-spacing: -0.5px; 
+	}
+
+	 h6{
+	  font-size: 14px;
+	  color: #606060; 
+	  font-family: PT Sans Caption;
+	  font-weight: normal; 
+	  letter-spacing: -0.5px; 
+	}

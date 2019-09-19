@@ -1,0 +1,27 @@
+/* ============================================================
+  S
+============================================================ */
+.module:last-child {
+  margin-bottom: 0;
+}
+
+.module.parallax {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.module.parallax-1 {
+  background-image: url("../img/demo/_small/1.jpg");
+}
+.module.parallax-2 {
+  background-image: url("../img/demo/_small/2.jpg");
+}
+.module.parallax-3 {
+  background-image: url("../img/demo/_small/3.jpg");
+}
+
